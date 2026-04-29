@@ -1,16 +1,66 @@
 ## Hi there 👋
+I'm Michél, a **Certified Data Analyst** with experience in marketing analytics, cloud tech (IaaS), and multimedia design.
+
+I recently earned the [DeepLearning.AI Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/IR3E68XM6BFI), where I mastered 
+- ⍺ Inferential Statistics
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Tableau
+- 📈 Spreadsheets
+##
+### 👩🏻‍💻 Skills
+**Descriptive & inferential statistics**:
+- Correlation analysis
+- Confidence intervals
+- Hypothesis testing
+- Time series forecasting with multiple linear regression models
+
+**End-to-end Python analytics pipelines**:
+- APIs
+- Web scraping (Beautiful Soup, JSON, JavaScript)
+- Unstructured data cleaning and EDA (Pandas, NumPy, Matplotlib)
+- Visualisation (Seaborn)
+
+**Basic SQL**:
+- Joins
+- Filters
+- Aggregations
+- Coming soon: CTEs, window functions
+
+**Data storytelling & dashboards**
+- Tableau
+- Power BI
+- Excel & Google Sheets
+
+**AI-powered workflows** using LLMs to accelerate EDA and reporting.
+
+**Spreadsheets**
+- Pivot tables, VLOOKUP, STDEV, Z-SCOREs, T.TEST
+- Excel (Power Query)
+- Google Sheets (Apps Script)
+
+**Marketing Analytics**
+- Google Analytics, Search Console, Tag Manager
+- social media data
+- JavaScript
+
+**Cloud**
+- [Microsoft Certified: Azure Fundamentals](https://www.linkedin.com/posts/michel-lipan_microsoft-certified-azure-fundamentals-activity-7016354907406385152-wG4k)
+- Virtual machines
+- Basic Linux
+- Kubernetes
+- Coming Soon: Snowflake/Google BigQuery
+##
+### 👋 Connect with Me
+💼 I’m currently **seeking a remote Data Analyst role** where I can solve real-world problems, automate and streamline processes, and help teams make smarter decisions faster.
+- [LinkedIn](https://www.linkedin.com/in/michel-lipan/)
+- [Tableau](https://public.tableau.com/app/profile/michel.lipan/vizzes)
+##
+### 📊 Projects
+ 🌱 I’m currently working on data projects. See them pinned below 👇
 
 <!--
 **michel-lipan/michel-lipan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
