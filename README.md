@@ -6,14 +6,15 @@ I recently earned the [DeepLearning.AI Data Analytics Professional Certificate](
 - 🐍 Python
 - 🗄️ SQL
 - 📊 Tableau
-- 📈 Spreadsheets
+- 📈 Spreadsheets analytics
 ##
 ### 👩🏻‍💻 Skills
 **Descriptive & inferential statistics**
 - Correlation analysis
+- Uniform simulations
 - Confidence intervals
 - Hypothesis testing
-- Regression-based forecasting
+- Regression-based forecasting and model evaluation
   
 **End-to-end Python analytics pipelines**
 - APIs
@@ -35,7 +36,7 @@ I recently earned the [DeepLearning.AI Data Analytics Professional Certificate](
 **AI-powered workflows** using LLMs to accelerate EDA, documentation, and reporting.
 
 **Spreadsheets**
-- Pivot tables, VLOOKUP, STDEV, Z-SCOREs, T.TEST
+- Pivot tables, VLOOKUP, STDEV, Z-scores, T.TEST, SKEW, VAR
 - Excel (Power Query)
 - Google Sheets (Apps Script)
 
