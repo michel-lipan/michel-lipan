@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Michél, a **Certified Data Analyst** with experience in marketing analytics, cloud tech (IaaS), and multimedia design.
 
-I recently earned the [DeepLearning.AI Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/IR3E68XM6BFI), where I mastered 
+I recently earned the [DeepLearning.AI Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/IR3E68XM6BFI), formalising my skills in 
 - ⍺ Inferential Statistics
 - 🐍 Python
 - 🗄️ SQL
@@ -9,19 +9,19 @@ I recently earned the [DeepLearning.AI Data Analytics Professional Certificate](
 - 📈 Spreadsheets
 ##
 ### 👩🏻‍💻 Skills
-**Descriptive & inferential statistics**:
+**Descriptive & inferential statistics**
 - Correlation analysis
 - Confidence intervals
 - Hypothesis testing
-- Time series forecasting with multiple linear regression models
-
-**End-to-end Python analytics pipelines**:
+- Regression-based forecasting
+  
+**End-to-end Python analytics pipelines**
 - APIs
 - Web scraping (Beautiful Soup, JSON, JavaScript)
-- Unstructured data cleaning and EDA (Pandas, NumPy, Matplotlib)
+- Unstructured data cleaning and EDA (Pandas, NumPy, Matplotlib, SciPy, statsmodels)
 - Visualisation (Seaborn)
 
-**Basic SQL**:
+**Basic SQL**
 - Joins
 - Filters
 - Aggregations
@@ -32,16 +32,15 @@ I recently earned the [DeepLearning.AI Data Analytics Professional Certificate](
 - Power BI
 - Excel & Google Sheets
 
-**AI-powered workflows** using LLMs to accelerate EDA and reporting.
+**AI-powered workflows** using LLMs to accelerate EDA, documentation, and reporting.
 
 **Spreadsheets**
 - Pivot tables, VLOOKUP, STDEV, Z-SCOREs, T.TEST
 - Excel (Power Query)
 - Google Sheets (Apps Script)
 
-**Marketing Analytics**
+**Marketing analytics**
 - Google Analytics, Search Console, Tag Manager
-- social media data
 - JavaScript
 
 **Cloud**
