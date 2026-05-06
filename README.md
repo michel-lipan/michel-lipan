@@ -17,10 +17,11 @@ I recently earned the [DeepLearning.AI Data Analytics Professional Certificate](
 - Regression-based forecasting and model evaluation
   
 **End-to-end Python analytics pipelines**
-- APIs
-- Web scraping (Beautiful Soup, JSON, JavaScript)
-- Unstructured data cleaning and EDA (Pandas, NumPy, Matplotlib, SciPy, statsmodels)
-- Visualisation (Seaborn)
+- APIs (JSON, key management, live data)
+- Web scraping (BeautifulSoup, HTML)
+- Unstructured data cleaning and EDA (Pandas, NumPy)
+- Statistical analysis and modelling (SciPy, statsmodels)
+- Visualisation (Matplotlib, Seaborn)
 
 **Basic SQL**
 - Joins
@@ -31,6 +32,7 @@ I recently earned the [DeepLearning.AI Data Analytics Professional Certificate](
 **Data storytelling & dashboards**
 - Tableau
 - Power BI
+- Looker/Data Studio
 - Excel & Google Sheets
 
 **AI-powered workflows** using LLMs to accelerate EDA, documentation, and reporting.
