@@ -39,7 +39,7 @@ I recently earned the [DeepLearning.AI Data Analytics Professional Certificate](
 
 **Spreadsheets**
 - Pivot tables, VLOOKUP, STDEV, Z-scores, T.TEST, SKEW, VAR
-- Excel (Power Query)
+- Excel (Power Query, Python formulas in Excel)
 - Google Sheets (Apps Script)
 
 **Marketing analytics**
