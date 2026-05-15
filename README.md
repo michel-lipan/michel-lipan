@@ -22,6 +22,7 @@ I recently earned the [DeepLearning.AI Data Analytics Professional Certificate](
 - Unstructured data cleaning and EDA (Pandas, NumPy)
 - Statistical analysis and modelling (SciPy, statsmodels)
 - Visualisation (Matplotlib, Seaborn)
+- Automation (Selenium)
 
 **Basic SQL**
 - Joins
