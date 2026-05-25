@@ -40,7 +40,7 @@ I recently earned the [DeepLearning.AI Data Analytics Professional Certificate](
 
 **Spreadsheets**
 - Pivot tables, VLOOKUP, STDEV, Z-scores, T.TEST, SKEW, VAR
-- Excel (Power Query, Python formulas in Excel)
+- Excel (Power Query, Python in Excel)
 - Google Sheets (Apps Script)
 
 **Marketing analytics**
@@ -51,7 +51,7 @@ I recently earned the [DeepLearning.AI Data Analytics Professional Certificate](
 - [Microsoft Certified: Azure Fundamentals](https://www.linkedin.com/posts/michel-lipan_microsoft-certified-azure-fundamentals-activity-7016354907406385152-wG4k)
 - Virtual machines
 - Basic Linux
-- Kubernetes
+- Docker
 - Coming Soon: Snowflake/Google BigQuery
 ##
 ### 👋 Connect with Me
